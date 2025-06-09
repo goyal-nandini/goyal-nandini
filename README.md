@@ -38,12 +38,10 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="30" alt="linkedin logo"  />
   </a>
      <a href="https://www.naukri.com/code360/profile/4e684be4-cc34-4bcf-aed1-521d77fe072d" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=codingninjas&logo=codingninjas&label=&color=FFA500&logoColor=white&labelColor=&style=flat
-" height="30" alt="codingninjas logo"  />
+    <img src="https://img.shields.io/static/v1?message=codingninjas&logo=codingninjas&label=&color=FFA500&logoColor=white&labelColor=&style=flat" height="30" alt="codingninjas logo"  />
+       </a>
   <a href="https://www.hackerrank.com/profile/nandini_97" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=flat" height="30" alt="hackerrank logo"  />
-  </a>
-
   </a>
 </div>
 
