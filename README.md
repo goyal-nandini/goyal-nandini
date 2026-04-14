@@ -1,22 +1,55 @@
-<!--## Hi👋, I'm Nandini-->
+<h1 align="center">Hi 👋, I'm Nandini Goyal</h1>
+<h3 align="center">Full Stack Developer • Problem Solver • DSA Enthusiast</h3>
 
-<h1 align="center">Hi 👋! I'm Nandini</h1>
+<p align="center">
+🚀 Building scalable full-stack applications <br/>
+🧠 Strong in Data Structures & Problem Solving <br/>
+🔗 Exploring APIs, Backend Systems & System Design
+</p>
 
-###
+---
 
-<div align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=goyal-nandini&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=goyal-nandini&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
-</div>
+## 🌐 Connect with Me
 
-###
+<p align="center">
+  <a href="https://github.com/goyal-nandini" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white&style=flat" />
+  </a>
+  <a href="https://linkedin.com/in/nandini-goyal-02080a292" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat" />
+  </a>
+  <a href="mailto:nandinikartik1981@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat" />
+  </a>
+  <a href="https://leetcode.com/u/nandini-goyal/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black&style=flat" />
+  </a>
+</p>
 
+---
+
+
+## 📈 What I'm Focused On
+
+- Solving DSA problems in Java  
+- Building full-stack projects (React + Node.js)  
+- Strengthening backend & system design concepts  
+
+---
+## 💻 Tech Stack
+ 
 <img align="right" height="180" src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif"  />
 
 ###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="javascript logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="javascript logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="javascript logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="15" />
