@@ -63,17 +63,23 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nandini-goyal-02080a292/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="100" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="100" alt="linkedin logo"  />
   </a>
      <a href="https://www.naukri.com/code360/profile/4e684be4-cc34-4bcf-aed1-521d77fe072d" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=CodingNinjas&logo=CodingNinjas&label=&color=FFA500&logoColor=white&labelColor=&style=flat" height="100" alt="codingninjas logo"  />
+    <img src="https://img.shields.io/badge/Code360-FF6B00?style=for-the-badge&logo=codingninjas&logoColor=white" height="100" alt="codingninjas logo"  />
        </a>
        <a href="https://leetcode.com/u/nandini-goyal/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=flat" height="100" alt="codingninjas logo"  />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height="100" alt="codingninjas logo"  />
        </a>
   <a href="https://www.hackerrank.com/profile/nandini_97" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=flat" height="100" alt="hackerrank logo"  />
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" height="100" alt="hackerrank logo"  />
   </a>
+ <a href="https://www.geeksforgeeks.org/profile/nandini91" target="_blank">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="35" alt="GeeksforGeeks" />
+</a>
+ <a href="https://x.com/nandini_goyal9" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="35" alt="X" />
+</a>
 </p>
 
 
