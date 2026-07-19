@@ -37,29 +37,48 @@
 
 ---
 
-# 🛠️ Tech Stack
+### 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,mongodb,postgresql,python,c,java,git,github,vscode,express,nodejs,vercel,render" />
 </p>
 
 ---
 
-# 📊 GitHub Stats
+### 📊 Dev Activity & Live Stats
 
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=goyal-nandini&theme=radical&bg_color=0d1117&hide_border=true" alt="Nandini's Activity Graph" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/nandini-goyal?theme=radical&font=Fira%20Code" alt="Nandini's LeetCode Stats" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=goyal-nandini&show_icons=true&theme=radical&hide_border=true" alt="Nandini's GitHub Stats" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=goyal-nandini&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=goyal-nandini&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+</p>
+
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com?user=goyal-nandini&theme=tokyonight-duo&short_numbers=true&card_height=200" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=goyal-nandini&bg_color=0f172a&color=f5d76e&line=d4af37&point=f8fafc&area=true&hide_border=true" />
+  <img src="https://leetcard.jacoblin.cool/nandini-goyal?theme=radical&font=Fira%20Code" alt="Nandini's LeetCode Stats" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=nandini-goyalt&show_icons=true&theme=radical&hide_border=true" alt="Nandini's GitHub Stats" width="48%" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=goyal-nandini&bg_color=0f172a&color=f5d76e&line=d4af37&point=f8fafc&area=true&hide_border=true" />
+</p> -->
+
 ---
 
 
 
 ---
-# 🌐 Connect With Me
+### 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nandini-goyal-02080a292/" target="_blank">
